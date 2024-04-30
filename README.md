@@ -7,6 +7,16 @@
 
 - ⚡ Fun fact: I love to swim 🏊‍♀️, drawing , watching movie, camping and cycling 🚴‍♀️.**
 
+- I am a 4th year student at Trakya University, Information Systems and Technologies🏫. I am graduating in June 2024 🎓.
+  
+- The places I have done my internship so far are as a volunteer, I worked with the Manual Test control team at Bilişim Vadisi Solution Factory for 1 month 💻︎.
+  
+- I completed my compulsory school internship by working in the Digital Technologies department at Sabiha Gökçen Airport Turkish Engine Center for 40 working days ✈︎✈︎.
+  
+- I have an entrepreneurship, diction, advanced Excel, English and computer operating certificates 😜.
+  
+- I quickly adapt to teamwork and the team environment 😇.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kader_ulka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kader_ulka" height="30" width="40" /></a>
