@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kader</h1>
-<h3 align="center">A passionate frontend developer from Turkey.</h3>
+<h3 align="center">I'm a Student , Software Developer </h3>
 
 - 🔭 I’m currently working on **undergraduate graduation project**
 
 - 🌱 I’m currently learning **Java and developing websites using HTML-CSS, PHP JAVA SQL.**
+
+- ⚡ Fun fact: I love to swim 🏊‍♀️, drawing , watching movie, camping and cycling 🚴‍♀️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
